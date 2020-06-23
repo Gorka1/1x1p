@@ -1,0 +1,8 @@
+C:\Users\alexf\Documents\Game Dev\1x1Game\bin\Debug\1x1Game.exe.config
+C:\Users\alexf\Documents\Game Dev\1x1Game\bin\Debug\1x1Game.exe
+C:\Users\alexf\Documents\Game Dev\1x1Game\obj\Debug\_1x1Game.Form1.resources
+C:\Users\alexf\Documents\Game Dev\1x1Game\obj\Debug\_1x1Game.Properties.Resources.resources
+C:\Users\alexf\Documents\Game Dev\1x1Game\obj\Debug\1x1Game.csproj.GenerateResource.cache
+C:\Users\alexf\Documents\Game Dev\1x1Game\obj\Debug\1x1Game.exe
+C:\Users\alexf\Documents\Game Dev\1x1Game\obj\Debug\1x1Game.pdb
+C:\Users\alexf\Documents\Game Dev\1x1Game\bin\Debug\1x1Game.pdb
